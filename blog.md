@@ -1,6 +1,7 @@
 
 ```
 
-- Here is a picture of a bunny I found ![bunny](/bunny.jpeg)
+- Here is a picture of a bunny I found 
+![bunny](/bunny.jpeg)
 
 ```
